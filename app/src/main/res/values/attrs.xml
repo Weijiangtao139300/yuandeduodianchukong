@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Myview">
+    <attr name="xNum" format="integer"></attr>
+    <attr name="yNum" format="integer"></attr>
+        
+        <attr name="banNum" format="integer"></attr>
+        <attr name="yanse" format="reference"></attr>
+        
+</declare-styleable>
+
+</resources>
